@@ -1,7 +1,7 @@
 ---
 banner:
-  title: There is no limit , we <design> <code><implement> your requirements with
-    high standards
+  title: There is no limit , we design-code-implement your requirements with high
+    standards
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
